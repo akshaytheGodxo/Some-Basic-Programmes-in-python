@@ -1,4 +1,7 @@
 # candies and children
+# In this programme , we have to take no. of students and candies as the input 
+# If the no of candies assigned to a child is equal to the rank/row value of the children , he/she will be happy
+# If all the childrens are satisfied/happy we have to print "Yes" , else print "No" :D Good Luck !!!
 
 s = int(input("Enter no. of childrens : "))
 c = int(input("Enter no. of candies : "))
